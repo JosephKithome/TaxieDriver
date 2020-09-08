@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taxiedriver</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="t_a_x_i_n_o">taxino</string>
+    <string name="google_direction_api">AIzaSyBofFsbPi_N2J2koLh8hu2qMTYnXC6wDLw</string>
+    <string name="rider">ridrt</string>
+</resources>
